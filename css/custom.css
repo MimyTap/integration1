@@ -1,0 +1,95 @@
+/* Vos customisations des classes de Bootstrap */
+
+/*couleurs:
+			corail: #FF6448
+
+			*/
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+	
+
+}
+
+
+/*General*/
+
+em {
+	color: #FF6448;
+	font-style: normal;
+}
+
+h2 {
+	color: #FF6448;
+	text-transform: uppercase;
+}
+
+hr {
+	border-color: #FF6448;
+	width: 120px;
+}
+
+#home {
+	color: #FFF;
+		
+			}
+
+
+#menu {
+	text-transform: uppercase;
+	color: #FFF;
+}
+
+.jumbotron {
+    position: relative;
+    background: url(../images/hero-image.jpg) center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.navbar {
+	margin-bottom: 0;
+}
+
+#get-involved{
+	background-color: #E1E9E8;
+	padding-bottom: 50px;
+	
+}
+
+
+#footer {
+	background-color: #FF6448;
+	color: #FFF;
+	padding-top: 100px;
+	padding-left: 100px;
+	padding-bottom: 50px;
+	}
+
+.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 12px;
+    padding: 1em;
+    display: none;
+}
+
+.btn {
+	color: #FF6448;
+}
